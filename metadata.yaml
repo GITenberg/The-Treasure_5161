@@ -1,0 +1,31 @@
+_repo: The-Treasure_5161
+alternative_title: Herr Arnes penningar. English
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerloef, Selma
+    - Lagerlof, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bohuslän (Sweden) -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Swedish fiction'
+- !lcsh 'Sweden -- History -- 1523-1718 -- Fiction'
+title: The Treasure
+url: http://www.gutenberg.org/ebooks/5161
