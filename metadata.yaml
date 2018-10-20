@@ -1,5 +1,5 @@
 _repo: The-Treasure_5161
-_version: 0.2.0
+_version: 0.2.1
 alternative_title: Herr Arnes penningar. English
 covers:
 - cover_type: generated
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Murder -- Fiction'
 - !lcsh 'Swedish fiction'
 - !lcsh 'Sweden -- History -- 1523-1718 -- Fiction'
+- GITenberg
 title: The Treasure
 url: http://www.gutenberg.org/ebooks/5161
